@@ -1,1 +1,2 @@
 This is another test file
+That's the secpnd line of the second file
